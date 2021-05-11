@@ -3,6 +3,18 @@
 
 ---
 
+<h1 id="write-python">Write Python</h1>
+<p>Là 1 loại ngôn ngữ phổ biến và đc nhiều coder dùng hiện h<br>
+Code <strong>Python</strong> không cần phải dùng “;”, “()”, “{}” nên chủ yếu là các ngắt dòng, và lùi dòng<br>
+<strong>Code</strong></p>
+<pre><code>a, sum = 100, 0
+for x in range(0, a,  2):
+    sum += x
+print(sum)
+</code></pre>
+<p><strong>Output</strong></p>
+<pre><code>2450
+</code></pre>
 <h1 id="python-variable--types">Python Variable  Types</h1>
 <h2 id="values-to-variables">Values to Variables</h2>
 <p>Python hỗ trợ nhận biết dạng cấu trúc dữ liệu của người dùng mà không cần phải khai báo</p>
